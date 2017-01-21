@@ -1,15 +1,15 @@
 # NomadOpenEU
 
-Une non-conférence nomade, à moitié en coworking éphémère dans des trains et à moitié à la rencontre de communautés locales.
+Une non-conférence à travers l'Europe pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales !
 
 
 ## Quand, où, combien ?
 
 **Proposition en construction, devis non finalisés et variables selon le nombre de participant·e·s, [feedbacks et suggestions](mailto:contact@nomadopen.eu) bienvenus !**
 
-Du vendredi 23 juin 2017 au dimanche 2 juillet, en France, en Espagne et en Italie, pour environ 800 € (le prix des billets et du logement, nourriture non incluse).
+La première édition aura lieu du vendredi 23 juin 2017 au dimanche 2 juillet, en France, en Espagne et en Italie, pour environ 800 € (le prix des billets et du logement, nourriture non incluse).
 
-Segments envisagés :
+Il est possible de participer à l'aventure d'un bout à l'autre, ou seulement pour certains des segments :
 
 - Paris - Bordeaux
 - Bordeaux - Barcelone
@@ -27,7 +27,7 @@ Segments envisagés :
 - Tu es bienveillant·e.
 - Tu es curieux·se.
 
-Tu ne devrais pas venir si tu veux recevoir une formation pour devenir digital nomad.
+Tu ne devrais pas venir si tu veux recevoir une formation pour devenir digital nomad. Il n'y aura pas de sachant·e·s, que des participant·e·s  :)
 
 
 ## Participer
@@ -39,12 +39,13 @@ Envie de monter dans le train ? Envie d'accueillir le groupe lors d'une étape 
 
 ### Matériel et bonnes pratiques
 
+- Connectivité : forfaits téléphoniques et appareils.
+- Sacs : quoi prendre et dans quoi le transporter.
+- Logement : échange, location, hôtel, auberge, amis…
+- Cuisiner sans cuisine.
+- Picoprojecteurs et écrans secondaires.
 - Wifi proxy.
 - MOSH (mobile shell).
-- Forfaits téléphoniques.
-- Les sacs.
-- Cuisiner sans cuisine.
-- Picoprojecteurs.
 
 ### Grandes réflexions
 
@@ -52,11 +53,11 @@ Envie de monter dans le train ? Envie d'accueillir le groupe lors d'une étape 
 
 ### Projets
 
-- DevFriendlyPlaces.
+- FriendlyPlaces : référencer collaborativement les espaces accueillants et compatibles avec nos pratiques.
 
 ### Whatever
 
-Ce dont on aura envie de parler !
+Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact@nomadopen.eu) ou pendant le trajet !
 
 
 ## Qui sera là
