@@ -20,7 +20,7 @@ Il est possible de participer à l'aventure d'un bout à l'autre, ou seulement p
 | Nice        | 30/06/2017 | 36 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
 | Milan       | 02/07/2017 | 67 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
 | Paris       |            |                                                   |                  |                                      |
-| _Mallaret*_ | 16/07/2017 | 95 €                                              |                  |                                      |
+| _Mallaret*_ | 16/07/2017 | 95 €                                              |                  | /ut7 / AOF                           |
 | Total       |            | 319 €                                             |                  |                                      |
 
 _* Remplacer le dernier segment Milan &rarr; Paris par un Milan &rarr; Mallaret est pour les personnes souhaitant passer deux semaines à retaper une grange en Auvergne pour en faire une école de programmation d'ici quelques années. Il s'agit d'un projet indépendant de NomadOpenEU._
