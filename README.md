@@ -2,6 +2,7 @@
 
 Une non-conférence à travers l'Europe pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales !
 
+![La voie Paris - Barcelone à hauteur de l'île de Sainte-Lucie](img/lucie.jpg)
 
 ## Quand, où, combien ?
 
@@ -20,6 +21,7 @@ Il est possible de participer à l'aventure d'un bout à l'autre, ou seulement p
 | Paris       |            |                                                   |                  |                                      |
 | Total       |            | 319 €                                             |                  |                                      |
 
+![La voie Barcelone - Nice à hauteur d'Antibes](img/antibes.jpg)
 
 ## Tu devrais venir si…
 
@@ -61,6 +63,7 @@ Envie de monter dans le train ? Envie d'accueillir le groupe lors d'une étape 
 
 Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact@nomadopen.eu) ou pendant le trajet !
 
+![La voie Milan - Paris](img/milano.jpg)
 
 ## Qui sera là
 
