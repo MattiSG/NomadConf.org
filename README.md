@@ -72,6 +72,4 @@ Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact
 - [@matti_sg](https://twitter.com/matti_sg)
 - [@pointbar](https://twitter.com/pointbar)
 - [@tchak13](https://twitter.com/tchak13)
-- [@krichtof](https://twitter.com/krichtof)
-- [@egaillot](https://twitter.com/egaillot)
 - [Toi ?](mailto:contact@nomadopen.eu)
