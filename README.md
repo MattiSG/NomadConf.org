@@ -1,3 +1,5 @@
+_[In English](./en)_
+
 # NomadOpenEU
 
 Une non-conférence à travers l'Europe pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales !
