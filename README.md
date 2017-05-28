@@ -7,23 +7,18 @@ Une non-conférence à travers l'Europe pour grandir dans ses pratiques professi
 
 **Proposition en construction, devis non finalisés et variables selon le nombre de participant·e·s, [feedbacks et suggestions](mailto:contact@nomadopen.eu) bienvenus !**
 
-La première édition aura lieu du vendredi 23 juin 2017 au dimanche 2 juillet, en France, en Espagne et en Italie, pour environ 800 € (le prix des billets et du logement, nourriture non incluse).
+La première édition aura lieu du vendredi 7 juillet 2017 au vendredi 14 juillet, en France, en Espagne et en Italie, pour environ 800 € (le prix des billets et du logement, nourriture non incluse).
 
 Il est possible de participer à l'aventure d'un bout à l'autre, ou seulement pour certains des segments :
 
 | Segment     | Départ     | Prix du train plein tarif vers le segment suivant | Prix du logement | Communauté sur place                 |
 |-------------|------------|---------------------------------------------------|------------------|--------------------------------------|
-| Paris       | 23/06/2017 | 51 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
-| Bordeaux    | 24/06/2017 | 75 €                                              |                  | GeekCamp (Okiwi)                     |
-| Barcelone   | 27/06/2017 | 40 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
-| Montpellier | 28/06/2017 | 50 €                                              |                  | FriendlyPlaces                       |
-| Nice        | 30/06/2017 | 36 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
-| Milan       | 02/07/2017 | 67 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
+| Paris       | 07/07/2017 | 119 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
+| Barcelone   | 10/07/2017 | 105 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
+| Nice        | 12/07/2017 | 36 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
+| Milan       | 14/07/2017 | 59 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
 | Paris       |            |                                                   |                  |                                      |
-| _Mallaret*_ | 16/07/2017 | 95 €                                              |                  | /ut7 / AOF                           |
 | Total       |            | 319 €                                             |                  |                                      |
-
-_* Remplacer le dernier segment Milan &rarr; Paris par un Milan &rarr; Mallaret est pour les personnes souhaitant passer deux semaines à retaper une grange en Auvergne pour en faire une école de programmation d'ici quelques années. Il s'agit d'un projet indépendant de NomadOpenEU._
 
 
 ## Tu devrais venir si…
