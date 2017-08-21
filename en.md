@@ -73,4 +73,5 @@ What you'll want to talk about! Propose a topic, [now](mailto:contact@nomadopen.
 - [@matti_sg](https://twitter.com/matti_sg)
 - [@pointbar](https://twitter.com/pointbar)
 - [@tchak13](https://twitter.com/tchak13)
+- [@cranedemorse](https://twitter.com/cranedemorse)
 - [You?](mailto:contact@nomadopen.eu)
