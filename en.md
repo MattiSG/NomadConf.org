@@ -8,9 +8,7 @@ An unconference throughout Europe to grow your professional nomadic practices…
 
 # When, where, how much?
 
-Proposal still under construction, estimates not finalized and varying according to the number of participants, feedback and suggestions welcome!
-
-The first edition will take place from Thursday 17 August 2017 to Wednesday 23 August, in [France, Spain and Germany](https://www.rome2rio.com/trip/pjypdzlh), for around 800 € (ticket and lodging prices, food not included).
+The first edition takes place from Thursday 17 August 2017 to Wednesday 23 August, in [France, Spain and Germany](https://www.rome2rio.com/trip/pjypdzlh), for around 800 € (ticket and lodging prices, food not included).
 
 ![Visualize the trip](https://www.rome2rio.com/trips/image/pjypdzlh)
 

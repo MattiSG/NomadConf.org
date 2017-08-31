@@ -8,8 +8,6 @@ Une non-conférence à travers l'Europe pour grandir dans ses pratiques professi
 
 ## Quand, où, combien ?
 
-**Proposition en construction, devis non finalisés et variables selon le nombre de participant·e·s, [feedbacks et suggestions](mailto:contact@nomadopen.eu) bienvenus !**
-
 La première édition a lieu du jeudi 17 août 2017 au mercredi 23 août, [en France, en Espagne et en Allemagne](https://www.rome2rio.com/trip/pjypdzlh), pour environ 800 € (le prix des billets et du logement, nourriture non incluse).
 
 ![Voir le trajet](https://www.rome2rio.com/trips/image/pjypdzlh)
