@@ -12,6 +12,8 @@ Proposal still under construction, estimates not finalized and varying according
 
 The first edition will take place from Thursday 17 August 2017 to Wednesday 23 August, in France, Spain and Germany, for around 800 € (ticket and lodging prices, food not included).
 
+[Visualize the trip](https://www.rome2rio.com/trip/pjypdzlh).
+
 It is possible to participate in the adventure from one end to the other, or only for some of the segments:
 
 

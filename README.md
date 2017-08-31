@@ -12,6 +12,8 @@ Une non-conférence à travers l'Europe pour grandir dans ses pratiques professi
 
 La première édition a lieu du jeudi 17 août 2017 au mercredi 23 août, en France, en Espagne et en Allemagne, pour environ 800 € (le prix des billets et du logement, nourriture non incluse).
 
+[Voir le trajet](https://www.rome2rio.com/trip/pjypdzlh).
+
 Il est possible de participer à l'aventure d'un bout à l'autre, ou seulement pour certains des segments :
 
 | Segment | Départ | Prix du train plein tarif | Durée du voyage | Nombre réel de participant·e·s |
