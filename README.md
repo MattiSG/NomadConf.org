@@ -10,18 +10,18 @@ Une non-conférence à travers l'Europe pour grandir dans ses pratiques professi
 
 **Proposition en construction, devis non finalisés et variables selon le nombre de participant·e·s, [feedbacks et suggestions](mailto:contact@nomadopen.eu) bienvenus !**
 
-La première édition aura lieu du vendredi 7 juillet 2017 au vendredi 14 juillet, en France, en Espagne et en Italie, pour environ 800 € (le prix des billets et du logement, nourriture non incluse).
+La première édition a lieu du jeudi 17 août 2017 au mercredi 23 août, en France, en Espagne et en Allemagne, pour environ 800 € (le prix des billets et du logement, nourriture non incluse).
 
 Il est possible de participer à l'aventure d'un bout à l'autre, ou seulement pour certains des segments :
 
-| Segment     | Départ     | Prix du train plein tarif vers le segment suivant | Prix du logement | Communauté sur place                 |
-|-------------|------------|---------------------------------------------------|------------------|--------------------------------------|
-| Paris       | 07/07/2017 | 119 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
-| Barcelone   | 10/07/2017 | 105 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
-| Nice        | 12/07/2017 | 36 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
-| Milan       | 14/07/2017 | 59 €                                              |                  | [Toi ?](mailto:contact@nomadopen.eu) |
-| Paris       |            |                                                   |                  |                                      |
-| Total       |            | 319 €                                             |                  |                                      |
+| Segment | Départ | Prix du train plein tarif | Durée du voyage | Nombre réel de participant·e·s |
+|---------|--------|---------------------------|-----------------|--------------------------------|
+| Paris | jeudi 17 août à 8h30 | 69 € | 3h | 4 |
+| Bordeaux | vendredi 18 août à 15h | 36 € | 4h30 | 4 |
+| San Sebastián | samedi 19 août à 7h30 | 55 € | 5h30 | 0 |
+| Barcelona | lundi 21 août à 7h30 | 69 € | 5h | 0 |
+| Lyon | mardi 22 août à 10h | 56 € | 6h | 0 |
+| Francfort | mercredi 23 août à 14h | 49 € | 4h15 | 0 |
 
 ![La voie Barcelone - Nice à hauteur d'Antibes](img/antibes.jpg)
 
@@ -67,12 +67,9 @@ Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact
 
 ![La voie Milan - Paris](img/milano.jpg)
 
-## Qui sera là
+## Qui était là
 
 - [@matti_sg](https://twitter.com/matti_sg)
-- [@pointbar](https://twitter.com/pointbar)
-- [@tchak13](https://twitter.com/tchak13)
 - [@krichtof](https://twitter.com/krichtof)
 - [@pblayo](https://twitter.com/pblayo)
 - [@cranedemorse](https://twitter.com/cranedemorse)
-- [Toi ?](mailto:contact@nomadopen.eu)

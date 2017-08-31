@@ -10,18 +10,19 @@ An unconference throughout Europe to grow your professional nomadic practices…
 
 Proposal still under construction, estimates not finalized and varying according to the number of participants, feedback and suggestions welcome!
 
-The first edition will take place from Friday 7 July 2017 to Friday 14 July, in France, Spain and Italy, for around 800 € (ticket and lodging prices, food not included).
+The first edition will take place from Thursday 17 August 2017 to Wednesday 23 August, in France, Spain and Germany, for around 800 € (ticket and lodging prices, food not included).
 
 It is possible to participate in the adventure from one end to the other, or only for some of the segments:
 
-| Segment     | From       | Full price to next segment                        | Lodging price    | Local community                 |
-|-------------|------------|---------------------------------------------------|------------------|--------------------------------------|
-| Paris       | 07 July 2017 | 119 €                                              |                  | [You ?](mailto:contact@nomadopen.eu) |
-| Barcelona   | 10 July 2017 | 105 €                                              |                  | [You ?](mailto:contact@nomadopen.eu) |
-| Nice        | 12 July 2017 | 36 €                                              |                  | [You ?](mailto:contact@nomadopen.eu) |
-| Milano      | 14 July 2017 | 59 €                                              |                  | [You ?](mailto:contact@nomadopen.eu) |
-| Paris       |            |                                                   |                  |                                      |
-| Total       |            | 319 €                                             |                  |                                      |
+
+| Segment | Departure | Full fare | Duration | Actual participants count |
+|---------|-----------|-----------|----------|---------------------------|
+| Paris | Thursday 17 August, 08:30 | 69 € | 3h | 4 |
+| Bordeaux | Friday 18 August, 15:00 | 36 € | 4h30 | 4 |
+| San Sebastián | Saturday 19 August, 07:30 | 55 € | 5h30 | 0 |
+| Barcelona | Monday 21 August, 07:30 | 69 € | 5h | 0 |
+| Lyon | Tuesday 22 August, 10:00 | 56 € | 6h | 0 |
+| Francfort | Wednesday 23 August, 14:00 | 49 € | 4h15 | 0 |
 
 ![Barcelone - Nice way at Antibes station](img/antibes.jpg)
 
@@ -68,12 +69,9 @@ What you'll want to talk about! Propose a topic, [now](mailto:contact@nomadopen.
 
 ![The Milan - Paris way](img/milano.jpg)
 
-## Who will be there
+## Who was there
 
 - [@matti_sg](https://twitter.com/matti_sg)
-- [@pointbar](https://twitter.com/pointbar)
-- [@tchak13](https://twitter.com/tchak13)
 - [@krichtof](https://twitter.com/krichtof)
 - [@pblayo](https://twitter.com/pblayo)
 - [@cranedemorse](https://twitter.com/cranedemorse)
-- [You?](mailto:contact@nomadopen.eu)
