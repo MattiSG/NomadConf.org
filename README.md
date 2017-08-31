@@ -73,5 +73,6 @@ Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact
 - [@pointbar](https://twitter.com/pointbar)
 - [@tchak13](https://twitter.com/tchak13)
 - [@krichtof](https://twitter.com/krichtof)
+- [@pblayo](https://twitter.com/pblayo)
 - [@cranedemorse](https://twitter.com/cranedemorse)
 - [Toi ?](mailto:contact@nomadopen.eu)
