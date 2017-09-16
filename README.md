@@ -56,6 +56,7 @@ Envie de monter dans le train ? Envie d'accueillir le groupe lors d'une étape 
 ### Grandes réflexions
 
 - Le terme « nomade » est-il adapté ?
+- Le terme « open » est-il le plus pertinent ?
 
 ### Projets
 

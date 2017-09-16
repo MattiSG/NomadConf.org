@@ -58,6 +58,7 @@ Want to get on the train? Want to welcome the group during a stop (to discover a
 ### Great Thoughts
 
 - Is the term “nomad” pertinent?
+- Is the term “open” the most relevant?
 
 ### Projects
 
