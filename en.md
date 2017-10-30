@@ -1,6 +1,6 @@
 _[En français](..)_
 
-# NomadOpenEU
+# NomadConfEU (formerly NomadOpenEU)
 
 An unconference throughout Europe to grow your professional nomadic practices… and to spend a good time between ephemeral coworking in trains and meeting local communities!
 
@@ -40,7 +40,7 @@ You should not come if you want to receive training to become digital nomad. The
 
 ## Participate
 
-Want to get on the train? Want to welcome the group during a stop (to discover a city, a local community…)? A question? Write an email to `contact{AT}nomadopen.eu`.
+Want to get on the train? Want to welcome the group during a stop (to discover a city, a local community…)? A question? Write an email to `contact{AT}nomadconf.eu`.
 
 
 ## What we will talk about
@@ -66,7 +66,7 @@ Want to get on the train? Want to welcome the group during a stop (to discover a
 
 ### Whatever
 
-What you'll want to talk about! Propose a topic, [now](mailto:contact@nomadopen.eu) or during the ride!
+What you'll want to talk about! Propose a topic, [now](mailto:contact@nomadconf.eu) or during the ride!
 
 ![The Milan - Paris way](img/milano.jpg)
 
