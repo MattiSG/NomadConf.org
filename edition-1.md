@@ -1,7 +1,5 @@
 # Première édition de NomadConf.eu
 
-## Trajet effectué
-
 La première édition a eu lieu les jeudi 17 août 2017 et vendredi 18 août, entre Paris et Bordeaux. Les participant·e·s étaient [@matti_sg](https://twitter.com/matti_sg), [@pblayo](https://twitter.com/pblayo), [@krichtof](https://twitter.com/krichtof) et [@cranedemorse](https://twitter.com/cranedemorse).
 
 ## Déroulé
@@ -14,19 +12,42 @@ Départ par le train de 8h30. On se retrouve directement dans le wagon. @Krichto
 
 Petit-déjeuner informel au bar TGV pour se rencontrer et découper les 3h de trajet.
 
-Exercice de lancement :
+Exercice de lancement :
 
-1. Partage-nous tes attentes pour ces deux jours
-2. Écris au moins deux à priori que tu as sur le travail dans le train (compléter la phrase « je crois que bosser dans le train…). Ne les partage pas !
+1. Partage-nous tes attentes pour ces deux jours.
+
+> Apprendre de cette expérience, et imaginer pouvoir plus tard travailler en remote et facturer le temps travaillé dans le train.
+>
+> Rencontrer de nouvelles personnes.
+
+2. Écris au moins deux à priori que tu as sur le travail dans le train (compléter la phrase « je crois que bosser dans le train… »). Ne les partage pas !
 
 ![TGV Paris Bordeaux](img/edition-1/IMG_5421.jpg)
 
-On commence à travailler, chacun·e à sa place, à 8h55. On se fixe un rendez-vous à 9h55 dans le bar, pour partager :
+On commence à travailler, chacun·e à sa place, à 8h55. On se fixe un rendez-vous à 9h55 dans le bar, pour partager :
 
 - Notre plus grand obstacle rencontré (ce qui nous a empêché d'être autant productif qu'en sédentaire).
 - Une surprise qu'on a eue.
 
 On expérimente à ce moment la conférence téléphonique _entre deux TGV_ en faisant participer @Krichtof depuis son propre train. Le résultat n'est pas convaincant, on passe à l'écrit par Slack.
+
+#### Les obstacles
+
+> Ne pas pouvoir accéder à internet, pour recherche de doc. J'ai réussi à le contourner en lisant du code que j'avais déjà sur mon laptop.
+>
+> Rien à voir avec la situation de mobilité : j’ai plusieurs sessions sur ma machine et en alternant entre ma perso et pro j’ai loupé des interactions importantes.
+>
+> Rien à voir non plus avec la situation de mobilité : le projet sur lequel je bosse prend vie vers 10h, donc cette première itération était d'une certaine manière « déconnectée » des équipes ; je n'ai pas assez dormi cette nuit, du coup beaucoup de mal à lire (l'activité sur laquelle je m'étais reporté pour cette première itération).
+
+#### Les surprises / découvertes
+
+> J'ai loupé mon train :wink:
+> Je me rends compte que j'ai toujours une sensibilité au niveau des oreilles, ce qui provoque parfois une gêne. Mais cela reste supportable.
+
+> Julien nous a offert du thé au bar TGV, c’était du Kusmi Tea. Je croyais encore qu’il n’y avait que du Lipton, je me dis que dans le futur je pourrai prendre du thé correct au bar !
+
+> Notre chef de bord s'appelle Christelle. Plus sérieusement, pas de surprise particulière. Ou la version paradoxale : je suis surpris de ne pas être surpris. Aaaaaaaah !
+
 
 ### Bordeaux, jour 1
 
@@ -34,7 +55,7 @@ On expérimente à ce moment la conférence téléphonique _entre deux TGV_ en f
 
 Le train de @Krichtof étant plus rapide que celui prévu initialement, on se retrouve en gare à la descente. On marche en direction du logement en échangeant sur nos expériences du matin.
 
-Déjeuner dans un restaurant rencontré en marchant. On y fait plus ample connaissance en découvrant des spécialités locales, afin de mieux comprendre le contexte professionnel et personnel de chaque participant·e.
+Déjeuner dans un restaurant rencontré en marchant. On y fait plus ample connaissance en découvrant des spécialités locales, afin de mieux comprendre les contextes professionnel et personnel de chaque participant·e.
 
 ![Restaurant bordelais](img/edition-1/IMG_5424.jpg)
 
@@ -70,48 +91,7 @@ Départ à 16h34 pour Paris, on découpe à nouveau le temps en itérations, pui
 ![TGV Bordeaux - Paris](img/edition-1/P1070688.jpg)
 
 
-## Les attentes des participant·e·s
-
-- apprendre de cette expérience, et imaginer pouvoir plus tard travailler en remote et facturer le temps travaillé dans le train
-- rencontrer de nouvelles personnes
-
-## Les obstacles
-
-> Ne pas pouvoir accéder à internet, pour recherche de doc. J'ai réussi à le contourner en lisant du code que j'avais déjà sur mon laptop.
-
-> Rien à voir avec la situation de mobilité : j’ai plusieurs sessions sur ma machine et en alternant entre ma perso et pro j’ai loupé des interactions importantes.
-
-> Rien à voir non plus avec la situation de mobilité : le projet sur lequel je bosse prend vie vers 10h, donc cette première itération était d'une certaine manière "déconnectée" des équipes; je n'ai pas assez dormi cette nuit, du coup beaucoup de mal à lire (l'activité sur laquelle je m'étais reporté pour cette première itération).
-
-## Les surprises / découvertes
-
-> J'ai loupé mon train :wink:
-> Je me rends compte que j'ai toujours une sensibilité au niveau des oreilles, ce qui provoque parfois une gêne. Mais cela reste supportable.
-
-> @julien nous a offert du thé au bar TGV, c’était du Kusmi Tea. Je croyais encore qu’il n’y avait que du Lipton, je me dis que dans le futur je pourrai prendre du thé correct au bar !
-
-> Notre chef de bord s'appelle Christelle. Plus sérieusement, pas de surprise particulière. Ou la version paradoxale : je suis surpris de ne pas être surpris. Aaaaaaaah !
-
 ## Les a prioris initiaux et leur ajustement
-
-### @matti_sg
-
-1. Je suis plus productif en train qu’au bureau.
-2. C’est moins confortable qu’au bureau.
-
-> Le 1 était vrai, mais j’ai découvert que j’étais encore plus productif à la gare. Je pense que c’est surtout du à la stabilité du réseau wifi, et peut-être un peu parce que je pouvais travailler debout.
-> Le 2 était vrai aussi :wink:
-
-### @krichtof
-
-1. Compliqué sans internet de travailler sans doc.
-2. Mômes qui font du bruit (j'avis mis cet a priori parce que @mattisg nous a demandé d'en mettre 2 :wink: ).
-
-Le 1 est l'obstacle principal que j'ai rencontré. J'ai réussi à le contourner grâce à un repo offline, qui m'a permis de voir des exemples de code.
-
-Très content d'avoir découvert grâce à @mattisg Zeal (ou Dash pour Mac), un outil de recherche indexée. Je vais m'y mettre dès demain.
-
-Autre outil découvert : la fonctionnalité d'édition multiple (avec plusieurs curseurs) de SublimeText. Il semblerait qu'il existe sous Vim [des plugins](https://github.com/terryma/vim-multiple-cursors) qui imitent ce fonctionnement… À suivre !
 
 ### @blayo
 
@@ -127,6 +107,7 @@ La conséquence c'est que par défaut mon téléphone va pomper de l'énergie à
 Ce qui mêne à ma découverte la plus contre-intuitive de la conférence : mon téléphone pompe plus vite la batterie de mon ordinateur qu'une prise de courant ne parvient à le recharger !
 
 #### Data
+
 Les 50 Mo de mon forfait Orange sont morts la première heure de trajet. J'ai mis 2 € dans 200 Mo supplémentaires. J'ai hésité à mettre directement 6 € dans 1 Go supplémentaire. Je voulais itérer pour découvrir et apprendre mais c'est peut-être pour cela qu'appear.in m'a coupé l'accès camera sur la fin de la conférence.
 
 #### Batterie
@@ -139,13 +120,41 @@ C'est une deuxième découverte pour moi : je suis très attentif à ne pas dér
 
 Parler avec mon binôme a ainsi été très facile dans le TGV à un étage peu rempli de l'aller car les zones de plateformes comportent bancs pour quatre personnes avec tables. Dans le TGV rempli à 70-80% du retour, je me suis assis sur des marches devant les WC, et cette station s'est vite révélée inconfortable.
 
-## Conclusions
+#### Conclusion
 
-> C'était chouette également d'avoir rencontré une communauté locale à Bordeaux hier soir. J'ai pu voir IRL des personnes que je suivais sur twitter ou que je lisais sur slack
-> Bref, 2 jours bien sympas :slightly_smiling_face: A réitérer !
+J'ai également beaucoup aimé les discussions informelles sur des sujets non liés au nomadisme et la rencontre de la communauté locale bordelaise.
 
-> j'ai également beaucoup aimé les discussions informelles sur des sujets non liés au nomadisme
-> la rencontre de la communauté locale bordelaise
+
+### @matti_sg
+
+1. Je suis plus productif en train qu’au bureau.
+2. C’est moins confortable qu’au bureau.
+
+Le 1 était vrai, mais j’ai découvert que j’étais encore plus productif à la gare. Je pense que c’est surtout du à la stabilité du réseau wifi, et peut-être un peu parce que je pouvais travailler debout.
+
+Le 2 était vrai aussi :wink:
+
+#### Conclusion
+
+Je suis très heureux d'avoir mené à terme cette première édition de NomadOpen !
+
+
+### @krichtof
+
+1. Compliqué sans internet de travailler sans doc.
+2. Mômes qui font du bruit (j'avis mis cet a priori parce que @mattisg nous a demandé d'en mettre 2 :wink: ).
+
+Le 1 est l'obstacle principal que j'ai rencontré. J'ai réussi à le contourner grâce à un repo offline, qui m'a permis de voir des exemples de code.
+
+Très content d'avoir découvert grâce à @mattisg Zeal (ou Dash pour Mac), un outil de recherche indexée. Je vais m'y mettre dès demain.
+
+Autre outil découvert : la fonctionnalité d'édition multiple (avec plusieurs curseurs) de SublimeText. Il semblerait qu'il existe sous Vim [des plugins](https://github.com/terryma/vim-multiple-cursors) qui imitent ce fonctionnement… À suivre !
+
+#### Conclusion
+
+C'était chouette également d'avoir rencontré une communauté locale à Bordeaux hier soir. J'ai pu voir IRL des personnes que je suivais sur Twitter ou que je lisais sur Slack.
+
+Bref, 2 jours bien sympas :slightly_smiling_face: À réitérer !
 
 
 ## Trajet initalement proposé
