@@ -1,6 +1,6 @@
 _[In English](./en)_
 
-# NomadConfEU (formerly NomadOpenEU)
+# NomadConfEU (anciennement NomadOpenEU)
 
 Une non-conférence à travers l'Europe pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales !
 
@@ -8,20 +8,7 @@ Une non-conférence à travers l'Europe pour grandir dans ses pratiques professi
 
 ## Quand, où, combien ?
 
-La première édition a lieu du jeudi 17 août 2017 au mercredi 23 août, [en France, en Espagne et en Allemagne](https://www.rome2rio.com/trip/pjypdzlh), pour environ 800 € (le prix des billets et du logement, nourriture non incluse).
-
-![Voir le trajet](https://www.rome2rio.com/trips/image/pjypdzlh)
-
-Il est possible de participer à l'aventure d'un bout à l'autre, ou seulement pour certains des segments :
-
-| Segment | Départ | Prix du train plein tarif | Durée du voyage | Nombre réel de participant·e·s |
-|---------|--------|---------------------------|-----------------|--------------------------------|
-| Paris | jeudi 17 août à 8h30 | 69 € | 3h | 4 |
-| Bordeaux | vendredi 18 août à 15h | 36 € | 4h30 | 4 |
-| San Sebastián | samedi 19 août à 7h30 | 55 € | 5h30 | 0 |
-| Barcelona | lundi 21 août à 7h30 | 69 € | 5h | 0 |
-| Lyon | mardi 22 août à 10h | 56 € | 6h | 0 |
-| Francfort | mercredi 23 août à 14h | 49 € | 4h15 | 0 |
+La [première édition](edition-1) a eu lieu en août 2017. Si tu es intéressé·e par participer à la prochaine édition (dates non encore fixées), envoie un mail à `contact@nomadconf.eu` !
 
 ![La voie Barcelone - Nice à hauteur d'Antibes](img/antibes.jpg)
 
@@ -67,10 +54,3 @@ Envie de monter dans le train ? Envie d'accueillir le groupe lors d'une étape 
 Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact@nomadconf.eu) ou pendant le trajet !
 
 ![La voie Milan - Paris](img/milano.jpg)
-
-## Qui était là
-
-- [@matti_sg](https://twitter.com/matti_sg)
-- [@krichtof](https://twitter.com/krichtof)
-- [@pblayo](https://twitter.com/pblayo)
-- [@cranedemorse](https://twitter.com/cranedemorse)

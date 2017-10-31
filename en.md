@@ -8,7 +8,7 @@ An unconference throughout Europe to grow your professional nomadic practices…
 
 # When, where, how much?
 
-The first edition takes place from Thursday 17 August 2017 to Wednesday 23 August, in [France, Spain and Germany](https://www.rome2rio.com/trip/pjypdzlh), for around 800 € (ticket and lodging prices, food not included).
+The first edition took place in August 2017. If you're interested in the second edition (dates TBA), send an email to `contact@nomadconf.eu`!
 
 ![Visualize the trip](https://www.rome2rio.com/trips/image/pjypdzlh)
 
@@ -69,10 +69,3 @@ Want to get on the train? Want to welcome the group during a stop (to discover a
 What you'll want to talk about! Propose a topic, [now](mailto:contact@nomadconf.eu) or during the ride!
 
 ![The Milan - Paris way](img/milano.jpg)
-
-## Who was there
-
-- [@matti_sg](https://twitter.com/matti_sg)
-- [@krichtof](https://twitter.com/krichtof)
-- [@pblayo](https://twitter.com/pblayo)
-- [@cranedemorse](https://twitter.com/cranedemorse)
