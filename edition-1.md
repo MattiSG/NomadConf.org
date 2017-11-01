@@ -20,7 +20,7 @@ Exercice de lancement :
 >
 > Rencontrer de nouvelles personnes.
 
-2. Écris au moins deux à priori que tu as sur le travail dans le train (compléter la phrase « je crois que bosser dans le train… »). Ne les partage pas !
+2. Écris au moins deux a priori que tu as sur le travail dans le train (compléter la phrase « je crois que bosser dans le train… »). Ne les partage pas !
 
 ![TGV Paris Bordeaux](img/edition-1/IMG_5421.jpg)
 
@@ -91,7 +91,7 @@ Départ à 16h34 pour Paris, on découpe à nouveau le temps en itérations, pui
 ![TGV Bordeaux - Paris](img/edition-1/P1070688.jpg)
 
 
-## Les a prioris initiaux et leur ajustement
+## Les a priori initiaux et leur ajustement
 
 ### @blayo
 
