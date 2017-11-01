@@ -108,7 +108,9 @@ Ce qui mêne à ma découverte la plus contre-intuitive de la conférence : mon 
 
 #### Data
 
-Les 50 Mo de mon forfait Orange sont morts la première heure de trajet. J'ai mis 2 € dans 200 Mo supplémentaires. J'ai hésité à mettre directement 6 € dans 1 Go supplémentaire. Je voulais itérer pour découvrir et apprendre mais c'est peut-être pour cela qu'appear.in m'a coupé l'accès camera sur la fin de la conférence.
+Les 500 Mo de mon forfait Orange sont morts la première heure de trajet. J'ai mis 2 € dans 200 Mo supplémentaires. J'ai hésité à mettre directement 6 € dans 1 Go supplémentaire. Je voulais itérer pour découvrir et apprendre mais c'est peut-être pour cela qu'appear.in m'a coupé l'accès camera sur la fin de la conférence.
+
+J'ai d'ailleurs découvert le site appear.in grâce à @matti_sg quand le train quittait Paris et l'ai ensuite utilisé tout au long du trajet pour partager mon écran et faire du pair programming à distance.
 
 #### Batterie
 
@@ -119,6 +121,7 @@ Mon téléphone n'a eu aucun problème de batterie. L'accès à des prises de co
 C'est une deuxième découverte pour moi : je suis très attentif à ne pas déranger les autres quand je discute d'un sujet professionnel. J'ai donc cherché des espaces suffisamment isolés dans les trains et l'appartement. Ce qui m'a amené à faire du pair programming dans la salle de bain.
 
 Parler avec mon binôme a ainsi été très facile dans le TGV à un étage peu rempli de l'aller car les zones de plateformes comportent bancs pour quatre personnes avec tables. Dans le TGV rempli à 70-80% du retour, je me suis assis sur des marches devant les WC, et cette station s'est vite révélée inconfortable.
+
 
 #### Conclusion
 
