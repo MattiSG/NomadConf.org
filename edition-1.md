@@ -145,11 +145,11 @@ Je suis très heureux d'avoir mené à terme cette première édition de NomadOp
 ### @krichtof
 
 1. Compliqué sans internet de travailler sans doc.
-2. Mômes qui font du bruit (j'avis mis cet a priori parce que @mattisg nous a demandé d'en mettre 2 :wink: ).
+2. Mômes qui font du bruit (j'avis mis cet a priori parce que @matti_sg nous a demandé d'en mettre 2 :wink: ).
 
 Le 1 est l'obstacle principal que j'ai rencontré. J'ai réussi à le contourner grâce à un repo offline, qui m'a permis de voir des exemples de code.
 
-Très content d'avoir découvert grâce à @mattisg Zeal (ou Dash pour Mac), un outil de recherche indexée. Je vais m'y mettre dès demain.
+Très content d'avoir découvert grâce à @matti_sg Zeal (ou Dash pour Mac), un outil de recherche indexée. Je vais m'y mettre dès demain.
 
 Autre outil découvert : la fonctionnalité d'édition multiple (avec plusieurs curseurs) de SublimeText. Il semblerait qu'il existe sous Vim [des plugins](https://github.com/terryma/vim-multiple-cursors) qui imitent ce fonctionnement… À suivre !
 
