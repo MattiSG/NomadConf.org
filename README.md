@@ -8,7 +8,10 @@ Une non-conférence à travers l'Europe pour grandir dans ses pratiques professi
 
 ## Quand, où, combien ?
 
-La [première édition](edition-1) a eu lieu en août 2017. Si tu es intéressé·e par participer à la prochaine édition (dates non encore fixées), envoie un mail à `contact@nomadconf.eu` !
+La seconde édition se déroulera le mercredi 24 janvier dans le train ICE 9573 quitant Paris à 10h55 et arrivant à Strasbourg vers 12h41. Si tu es intéressé·e d'y participer, envoie un mail à `contact@nomadconf.eu` !
+
+La [première édition](edition-1) a eu lieu en août 2017.
+
 
 ![La voie Barcelone - Nice à hauteur d'Antibes](img/antibes.jpg)
 
