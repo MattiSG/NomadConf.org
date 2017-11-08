@@ -19,4 +19,4 @@ le sujet :
 * [Nomad Summit](https://www.nomadsummit.com)
 * [7in7](https://7in7.co)
 
-
+## [Participer à la prochaine édition de NomadConf.eu](/)

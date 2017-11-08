@@ -2,7 +2,7 @@ _[In English](./en)_
 
 # NomadConfEU (anciennement NomadOpenEU)
 
-Une non-conférence à travers l'Europe pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales !
+Une non-conférence [nomade](conference-nomade) à travers l'Europe pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales !
 
 ![La voie Paris - Barcelone à hauteur de l'île de Sainte-Lucie](img/lucie.jpg)
 
