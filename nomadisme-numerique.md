@@ -37,5 +37,4 @@ Les évènements autour de ce thème se sont tant développés ces dernières an
 qu'en 2017, un site de voyages en dénombrait pas moins de
 [27](https://www.flystein.com/best-events-for-digital-nomads-in-2017)
 
-http://www.webworktravel.com/become-digital-nomad/
-http://www.webworktravel.com/become-digital-nomad/
+## [Participer à la prochaine édition de NomadConf.eu](/)
