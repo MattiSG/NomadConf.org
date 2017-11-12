@@ -8,7 +8,7 @@ An unconference throughout Europe to grow your professional nomadic practices…
 
 # When, where, how much?
 
-The first edition took place in August 2017. If you're interested in the second edition (dates TBA), send an email to `contact@nomadconf.eu`!
+The [first edition](en/edition-1) took place in August 2017. If you're interested in the second edition (dates TBA), send an email to `contact@nomadconf.eu`!
 
 ![Visualize the trip](https://www.rome2rio.com/trips/image/pjypdzlh)
 
