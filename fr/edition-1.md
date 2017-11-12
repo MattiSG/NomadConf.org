@@ -22,7 +22,7 @@ Exercice de lancement :
 
 2. Écris au moins deux a priori que tu as sur le travail dans le train (compléter la phrase « je crois que bosser dans le train… »). Ne les partage pas !
 
-![TGV Paris Bordeaux](img/edition-1/IMG_5421.jpg)
+![TGV Paris Bordeaux](/img/edition-1/IMG_5421.jpg)
 
 On commence à travailler, chacun·e à sa place, à 8h55. On se fixe un rendez-vous à 9h55 dans le bar, pour partager :
 
@@ -51,44 +51,44 @@ On expérimente à ce moment la conférence téléphonique _entre deux TGV_ en f
 
 ### Bordeaux, jour 1
 
-![Gare de Bordeaux](img/edition-1/IMG_5422.jpg)
+![Gare de Bordeaux](/img/edition-1/IMG_5422.jpg)
 
 Le train de @Krichtof étant plus rapide que celui prévu initialement, on se retrouve en gare à la descente. On marche en direction du logement en échangeant sur nos expériences du matin.
 
 Déjeuner dans un restaurant rencontré en marchant. On y fait plus ample connaissance en découvrant des spécialités locales, afin de mieux comprendre les contextes professionnel et personnel de chaque participant·e.
 
-![Restaurant bordelais](img/edition-1/IMG_5424.jpg)
+![Restaurant bordelais](/img/edition-1/IMG_5424.jpg)
 
 Après le repas, on fait deux groupes : l'un préfère s'installer immédiatement à l'appartement pour travailler, l'autre préfère travailler à l'extérieur.
 
-![Lieu de télétravail](img/edition-1/IMG_5427.jpg)
-![Appartement](img/edition-1/P1070679.jpg)
+![Lieu de télétravail](/img/edition-1/IMG_5427.jpg)
+![Appartement](/img/edition-1/P1070679.jpg)
 
 En fin de journée, on décide de se rendre au [meetup BdxCoin](https://www.meetup.com/fr-FR/BdxCoin/events/242435687/) recommandé par la communauté locale [Okiwi](http://okiwi.org/). On y rencontre une quinzaine de praticien·ne·s locaux de l'agilité, du développement logiciel, des cryptomonnaies… Dont certain·e·s qu'on connaissait via Twitter. L'apéro se transforme en dîner, et on rentre à l'appartement vers minuit après une soirée où on a tout appris sur l'achat et la vente du Bitcoin.
 
-![Soirée](img/edition-1/IMG_5430.jpg)
+![Soirée](/img/edition-1/IMG_5430.jpg)
 
 ### Bordeaux, jour 2
 
 Au réveil, pas d'électricité ! Après une dizaine de minutes, on finit par identifier la coupable : la multiprise sur laquelle le frigo est branché a brûlé pendant la nuit. On peut légitimement dire que l'équipée NomadConf a frôlé la mort, qu'elle n'a évité que grâce à un disjoncteur différentiel.
 
-![Multiprise brûlée](img/edition-1/IMG_5432.jpg)
+![Multiprise brûlée](/img/edition-1/IMG_5432.jpg)
 
 @Krichtof a apporté une enceinte portable et nous fait découvrir [Vulfpeck](https://www.youtube.com/watch?v=AWBUnr0F3Zo). Travail à l'appartement dans la matinée, visio-conférence dans la salle de bain.
 
-![Philippe est plein d'imagination](img/edition-1/IMG_5436.jpg)
+![Philippe est plein d'imagination](/img/edition-1/IMG_5436.jpg)
 
 Check-out, déjeuner et travail dans la délicieuse boulangerie au pied de l'immeuble. On se rend à la gare à pied pour faire une pause, en faisant de rapides visites touristiques au passage.
 
-![Visites](img/edition-1/P1070682.jpg)
+![Visites](/img/edition-1/P1070682.jpg)
 
 Session de travail dans la gare pour tester cet environnement-là.
 
-![Tables hautes à la gare de Bordeaux](img/edition-1/IMG_5423.jpg)
+![Tables hautes à la gare de Bordeaux](/img/edition-1/IMG_5423.jpg)
 
 Départ à 16h34 pour Paris, on découpe à nouveau le temps en itérations, puis on conclut cette première session, courte mais réussie, de NomadConf.eu.
 
-![TGV Bordeaux - Paris](img/edition-1/P1070688.jpg)
+![TGV Bordeaux - Paris](/img/edition-1/P1070688.jpg)
 
 
 ## Les a priori initiaux et leur ajustement

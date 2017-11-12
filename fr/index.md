@@ -4,7 +4,7 @@ _[In English](./en)_
 
 Une non-conférence [nomade](conference-nomade) à travers l'Europe pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales !
 
-![La voie Paris - Barcelone à hauteur de l'île de Sainte-Lucie](img/lucie.jpg)
+![La voie Paris - Barcelone à hauteur de l'île de Sainte-Lucie](/img/lucie.jpg)
 
 ## Quand, où, combien ?
 
@@ -15,7 +15,7 @@ Une micro-édition se déroulera le mercredi 24 janvier dans le train ICE 9573 q
 La [première édition](edition-1) a eu lieu en août 2017.
 
 
-![La voie Barcelone - Nice à hauteur d'Antibes](img/antibes.jpg)
+![La voie Barcelone - Nice à hauteur d'Antibes](/img/antibes.jpg)
 
 ## Tu devrais venir si…
 
@@ -58,4 +58,4 @@ Envie de monter dans le train ? Envie d'accueillir le groupe lors d'une étape 
 
 Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact@nomadconf.eu) ou pendant le trajet !
 
-![La voie Milan - Paris](img/milano.jpg)
+![La voie Milan - Paris](/img/milano.jpg)

@@ -22,7 +22,7 @@ First exercise:
 
 2. Write at least two a priori that you have on working in the train (by completing the sentence “I think that working in the train…”). Don't share them!
 
-![TGV Paris Bordeaux](img/edition-1/IMG_5421.jpg)
+![TGV Paris Bordeaux](/img/edition-1/IMG_5421.jpg)
 
 We start working, each one in his or her place, at 8:55am. We set up a meeting at 9:55 in the bar to share:
 
@@ -51,44 +51,44 @@ We try making a conference call _between two high-speed trains_ by involving @Kr
 
 ### Bordeaux, day 1
 
-![Bordeaux Station](img/img/edition-1/IMG_5422.jpg)
+![Bordeaux Station](/img/img/edition-1/IMG_5422.jpg)
 
 @Krichtof's train being faster than the one initially planned, we meet in the station. We walk towards our accommodation by sharing our experiences of the morning.
 
 Lunch in a restaurant found while walking. We get to know each other better while discovering local specialities, in order to better understand the professional and personal contexts of each participant.
 
-![Bordeaux Restaurant](img/edition-1/IMG_5424.jpg)
+![Bordeaux Restaurant](/img/edition-1/IMG_5424.jpg)
 
 After the meal, we make two groups: one prefers to settle down immediately at the apartment to work, the other prefers to work outside.
 
-![Remote office](img/edition-1/IMG_5427.jpg)
-![Apartment](img/img/edition-1/P1070679.jpg)
+![Remote office](/img/edition-1/IMG_5427.jpg)
+![Apartment](/img/img/edition-1/P1070679.jpg)
 
 At the end of the day, we decide to go to the [BdxCoin meetup](https://www.meetup.com/fr-FR/BdxCoin/events/242435687/) recommended by the local community [Okiwi](http://okiwi.org/). We meet about fifteen local practitioners of agility, software development, cryptocurrencies… Some of whom we knew via Twitter. The aperitif turns into dinner, and we return to the apartment around midnight after having learnt everything about buying and selling Bitcoin.
 
-![Evening](img/img/edition-1/IMG_5430.jpg)
+![Evening](/img/img/edition-1/IMG_5430.jpg)
 
 ### Bordeaux, day 2
 
 When we wake up, there is no electricity! After about ten minutes, the culprit is finally identified: the power strip on which the fridge was plugged has burned overnight. One can legitimately say that the NomadConf team approached death, and merely avoided it thanks to an earth leakage circuit breaker.
 
-![Burned socket](img/edition-1/IMG_5432.jpg)
+![Burned socket](/img/edition-1/IMG_5432.jpg)
 
 Krichtof had brought a portable speaker and introduces us to [Vulfpeck](https://www.youtube.com/watch?v=AWBUnr0F3Zo). Work at the apartment in the morning, video-conference in the bathroom.
 
-![Philippe is full of imagination](img/edition-1/IMG_5436.jpg)
+![Philippe is full of imagination](/img/edition-1/IMG_5436.jpg)
 
 Check-out, lunch and work in the delicious bakery at the foot of the building. We walk to the station for a break, making quick sightseeing visits.
 
-![Visits](img/edition-1/P1070682.jpg)
+![Visits](/img/edition-1/P1070682.jpg)
 
 Working session in the station to test that environment.
 
-![High seats in Bordeaux train station](img/edition-1/IMG_5423.jpg)
+![High seats in Bordeaux train station](/img/edition-1/IMG_5423.jpg)
 
 Departure at 4:34PM to Paris, we schedule iterations again, then we conclude this first session of NomadConf.eu, short but successful.
 
-![TGV Bordeaux - Paris](img/edition-1/P1070688.jpg)
+![TGV Bordeaux - Paris](/img/edition-1/P1070688.jpg)
 
 ## Initial a prioris and their adjustment
 

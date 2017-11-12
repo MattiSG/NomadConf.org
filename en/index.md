@@ -1,14 +1,14 @@
-_[En français](..)_
+_[En français](/fr)_
 
 # NomadConfEU (formerly NomadOpenEU)
 
 An unconference throughout Europe to grow your professional nomadic practices… and to spend a good time between ephemeral coworking in trains and meeting local communities!
 
-![Paris - Barcelone near the Sainte-Lucie island](img/lucie.jpg)
+![Paris - Barcelone near the Sainte-Lucie island](/img/lucie.jpg)
 
 # When, where, how much?
 
-The [first edition](en/edition-1) took place in August 2017. If you're interested in the second edition (dates TBA), send an email to `contact@nomadconf.eu`!
+The [first edition](edition-1) took place in August 2017. If you're interested in the second edition (dates TBA), send an email to `contact@nomadconf.eu`!
 
 ![Visualize the trip](https://www.rome2rio.com/trips/image/pjypdzlh)
 
@@ -24,7 +24,7 @@ It is possible to participate in the adventure from one end to the other, or onl
 | Lyon | Tuesday 22 August, 10:00 | 56 € | 6h | 0 |
 | Francfort | Wednesday 23 August, 14:00 | 49 € | 4h15 | 0 |
 
-![Barcelone - Nice way at Antibes station](img/antibes.jpg)
+![Barcelone - Nice way at Antibes station](/img/antibes.jpg)
 
 
 ## You should come if…
@@ -68,4 +68,4 @@ Want to get on the train? Want to welcome the group during a stop (to discover a
 
 What you'll want to talk about! Propose a topic, [now](mailto:contact@nomadconf.eu) or during the ride!
 
-![The Milan - Paris way](img/milano.jpg)
+![The Milan - Paris way](/img/milano.jpg)
