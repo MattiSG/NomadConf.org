@@ -93,7 +93,7 @@ Départ à 16h34 pour Paris, on découpe à nouveau le temps en itérations, pui
 
 ## Les a priori initiaux et leur ajustement
 
-### @blayo
+### @pblayo
 
 1. Coûteux d’accéder à internet en terme de data/batterie.
 2. Ça va être compliqué de faire mon standup avec mon binôme / dérangeant pour les gens autour.
