@@ -41,7 +41,7 @@ We try making a conference call _between two high-speed trains_ by involving @Kr
 
 #### Surprises / discoveries
 
-> I missed my train: wink:
+> I missed my train 😉
 > I realize that I always have a sensitivity in my ears, which sometimes causes discomfort. But it's still bearable.
 >
 > Julien gave us tea at the train bar, it was Kusmi Tea. I still thought there was only Lipton, I think that in the future I will be able to have some good tea at the bar!
@@ -133,7 +133,7 @@ I also enjoyed the informal discussions on topics unrelated to nomadism and meet
 
 1 was true, but I discovered that I was even more productive in a train station. I think it's mostly due to the stability of the wifi network, and maybe a little bit because I could work on my own.
 
-2 was also true: wink:
+2 was also true 😉
 
 ##### Conclusion
 
@@ -143,7 +143,7 @@ I am very happy to have completed this first edition of NomadConf!
 ### @krichtof
 
 1. Complicated to work without internet and without doc.
-2. Kids who make noise (I put this a priori opinion because @matti_sg asked us to write 2 :wink:).
+2. Kids who make noise (I put this a priori opinion because @matti_sg asked us to write 2 😉).
 
 1 is the main obstacle I encountered. I managed to get around it thanks to an offline repo, which allowed me to see examples of code.
 
@@ -189,6 +189,6 @@ A more transparent name and thus easier to find by a search engine and more temp
 
 _Done on October 30, 2017!_
 
-### Write this report: wink:
+### Write this report 😉
 
 _Done on November 12, 2017!_
