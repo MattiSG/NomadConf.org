@@ -92,7 +92,7 @@ Departure at 4:34PM to Paris, we schedule iterations again, then we conclude thi
 
 ## Initial a prioris and their adjustment
 
-### @blayo
+### @pblayo
 
 1. Costly to access the internet in terms of data/battery.
 2. It's going to be complicated to do my standup with my teammates / annoying for the people around.
