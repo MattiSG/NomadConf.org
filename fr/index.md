@@ -1,19 +1,16 @@
 _[In English](./en)_
 
-# NomadConfEU (anciennement NomadOpenEU)
+# NomadConf
 
-Une non-conférence [nomade](conference-nomade) à travers l'Europe pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales !
+Une non-conférence [nomade](conference-nomade) pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales !
 
 ![La voie Paris - Barcelone à hauteur de l'île de Sainte-Lucie](/img/lucie.jpg)
 
 ## Quand, où, combien ?
 
-Une micro-édition se déroulera le mercredi 24 janvier dans le train ICE 9573 quitant Paris à 10h55 et arrivant à Strasbourg vers 12h41. Si tu es intéressé·e pour y participer, envoie un mail à `contact@nomadconf.eu` !
-
-(Il s'agit du train qui amène à la session hivernale de la conférence [Agile Open 2018](http://agileopenfrance.com).)
-
-La [première édition](edition-1) a eu lieu en août 2017.
-
+- Première édition : [août 2017 en Europe](edition-1).
+- Micro-édition : mercredi 24 janvier de Paris à Strasbourg.
+- Prochaine édition : [Canada en novembre 2018](canada-2018).
 
 ![La voie Barcelone - Nice à hauteur d'Antibes](/img/antibes.jpg)
 
