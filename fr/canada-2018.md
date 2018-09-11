@@ -5,15 +5,17 @@ Cette édition aura lieu au Canada dans la première quinzaine de novembre 2018 
 _Toutes les informations indiquées ici sont en cours de confirmation, tous vos retours sont bienvenus !_
 
 
-## Thème : quand ralentir nous permet d'aller plus vite, plus loin… ou simplement ailleurs ?
+## Thème : vitesse et précipitation
+
+### Quand ralentir nous permet d'aller plus vite, plus loin… ou simplement ailleurs ?
 
 Pour cette édition, nous souhaitons explorer le rapport au temps et à la productivité, et notamment la notion selon laquelle prendre un temps plus long pour mener des idées à terme peut permettre d'atteindre un résultat plus rapidement qu'un démarrage immédiat de la production.
-Sans revenir au cycle en V, il s'agit de questionner les pratiques agiles et lean pour identifier les occasions où nous présageons à tort que le fait d'aller vite aurait une vertu intrinsèque et auto-suffisante. Il s'agit des cas où nous pouvons, en tant que praticien·ne·s, confondre des applications _tactiques_ de l'itération rapide et de la confrontation à la réalité avec des applications _stratégiques_ qui empêchent de prendre du recul et d'assurer l'adéquation entre l'intention initiale et la mise en œuvre de solutions. Bref, nous chercherons à déterminer les moments où nous mélangeons fin et moyens.
+Sans revenir au cycle en V, il s'agit de questionner les pratiques agiles et lean pour identifier les occasions où nous présageons à tort que le fait d'aller vite aurait une vertu intrinsèque. Nous pouvons parfois nous perdre dans l'itération rapide et la confrontation à la réalité et oublier la prise de recul qui assure le sens et l'adéquation avec l'intention initiale. Nous chercherons ainsi à déterminer les moments où nous mélangeons fin et moyens pour retrouver une capacité d'usage tactique du temps long.
 
 Nous exploiterons pour cela une double mise en situation permise par la mobilité douce :
 
-- D'une part, en travaillant sur des sujets individuels et habituels dans une situation inhabituelle, en créant un espace de télétravail éphémère dans le train. Ce changement du jeu de contraintes (plus d'interruptions, des paysages qui défilent, moins de connectivité, un espace partagé…) change notre fonctionnement cognitif et modifie notre rapport aux problèmes que nous cherchons à résoudre.
-- D'autre part, en échangeant sur ces changements cognitifs avec d'autres personnes qui les vivent également, et qui en auront une expérience variée.
+- D'une part, en travaillant sur des sujets individuels et habituels dans une situation inhabituelle, en créant un espace de télétravail éphémère dans le train. Ce changement du jeu de contraintes (moins d'interruptions, un paysage changeant, moins de connectivité, un espace partagé…) change notre fonctionnement cognitif et modifie notre rapport aux problèmes que nous cherchons à résoudre.
+- D'autre part, en échangeant sur ces changements cognitifs avec d'autres personnes qui les vivent également, et qui en auront une expérience et une interprétation variées.
 
 
 ## Proposition 1 (« la transcontinentale »)
