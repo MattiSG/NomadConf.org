@@ -2,7 +2,7 @@
 
 Cette édition aura lieu au Canada dans la première quinzaine de novembre 2018 et est organisée par Clémentine Hahn et Matti Schneider.
 
-_Toutes les informations indiquées ici sont en cours de confirmation, nous sommes preneurs de tous vos retours !_
+_Toutes les informations indiquées ici sont en cours de confirmation, tous vos retours sont bienvenus !_
 
 
 ## Thème : quand ralentir nous permet d'aller plus vite, plus loin… ou simplement ailleurs ?
