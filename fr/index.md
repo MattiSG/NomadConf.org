@@ -29,30 +29,4 @@ Tu ne devrais pas venir si tu veux recevoir une formation pour devenir digital n
 
 Envie de monter dans le train ? Envie d'accueillir le groupe lors d'une étape (faire découvrir une ville, une communauté locale…) ? Une question ? Écris un mail à `contact{AT}nomadconf.eu`.
 
-
-## De quoi on parlera
-
-### Matériel et bonnes pratiques
-
-- Connectivité : forfaits téléphoniques et appareils.
-- Sacs : quoi prendre et dans quoi le transporter.
-- Logement : échange, location, hôtel, auberge, amis…
-- Cuisiner sans cuisine.
-- Picoprojecteurs et écrans secondaires.
-- Wifi proxy.
-- MOSH (mobile shell).
-
-### Grandes réflexions
-
-- Le terme « nomade » est-il adapté ?
-- Le terme « open » est-il le plus pertinent ?
-
-### Projets
-
-- FriendlyPlaces : référencer collaborativement les espaces accueillants et compatibles avec nos pratiques.
-
-### Whatever
-
-Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact@nomadconf.eu) ou pendant le trajet !
-
 ![La voie Milan - Paris](/img/milano.jpg)
