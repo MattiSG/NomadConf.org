@@ -45,25 +45,26 @@ Nous chercherons individuellement et collectivement à identifier les moments o�
 
 ## Trajet potentiel 1 : _la Transcontinentale_
 
-Du 10 au 15 novembre 2018, entre Toronto et Vancouver.
+Du 10 au 14 novembre 2018, entre Toronto et Vancouver : 2 Segments / 5 jours
+Estimation trajet 1 : 523,06 CA$ en siège inclinable / 1439,56 CA$ en couchette
 
-### Segment 1 : Toronto – Winnipeg
+### Segment 1 : Toronto – Winnipeg
 
-- Prix :
-- Horaire de départ :
-- Durée :
-- Thèmes abordés :
+- Prix : 239,56 CA$ en économie / 673,48 CA$ en couchette
+- Horaire de départ : samedi 10 novembre à 22h00
+- Horaire d’arrivée : lundi 12 novembre à 8h
+- Durée : 1j 11h
 
 ### Étape 1 : Winnipeg
 
 - Groupe recontré :
 
-### Segment 2 : Winnipeg – Vancouver
+### Segment 2 : Winnipeg – Vancouver
 
-- Prix :
-- Horaire de départ :
-- Durée :
-- Thèmes abordés :
+- Prix : 283,50$ / 766,50 CA$ en couchette
+- Horaire de départ :  lundi 12 novembre à 10h
+- Horaire d’arrivée : jeudi 14 novembre à 18h00
+- Durée : 2j 10h
 
 ### Étape 2 : Vancouver
 
@@ -72,37 +73,56 @@ Du 10 au 15 novembre 2018, entre Toronto et Vancouver.
 
 ## Trajet potentiel 2 : _la Dorsale_
 
-Du 6 au 11 novembre, entre Québec et Toronto.
+Du 6 au 11 novembre, entre Québec et Toronto : 3 segments / 4 jours
+Estimation trajet 2 : 169 CA$
 
-### Segment 1 : Québec – Montréal
+### Segment 1 : Québec – Montréal
 
-- Prix :
-- Horaire de départ :
-- Durée :
-- Thèmes abordés :
+- Prix : 29$
+- Horaire de départ : vendredi 9 novembre à 17h45
+- Horaire d’arrivée : vendredi 9 novembre à 21h00
+- Durée : 3h15
 
 ### Étape 1 : Montréal
 
 - Groupe recontré :
 
-### Segment 2 : Montréal – Ottawa
+### Segment 2 : Montréal – Ottawa
 
-- Prix :
-- Horaire de départ :
-- Durée :
-- Thèmes abordés :
+- Prix : 44$
+- Horaire de départ : samedi 10 novembre à 12h04
+- Horaire d’arrivée : samedi 10 novembre à 14h15
+- Durée : 2h11
 
 ### Étape 2 : Ottawa du 7 au 9
 
-- Groupe recontré : Service Numérique Canadien.
+- Groupe rencontré : Service Numérique Canadien.
 
-### Segment 3 : Ottawa – Toronto
+### Segment 3 : Ottawa – Toronto
 
-- Prix :
-- Horaire de départ :
-- Durée :
-- Thèmes abordés :
+- Prix : 48$
+- Horaire de départ : dimanche 11 novembre à 09h05
+- Durée : dimanche 11 novembre à 13h47
+- Thèmes abordés : 04h42
 
 ### Étape 3 : Toronto
 
 - Groupe recontré :
+
+### Segment 4 (retour) : Toronto – Montréal
+
+- Prix : 48$
+- Horaire de départ : lundi 12 novembre à 9h20
+- Horaire d’arrivée : lundi 12 novembre à 14h20
+- Durée: 5h
+
+
+## Trajet potentiel 3 : _L’express_
+
+Le 10 novembre, entre Québec et Toronto : 1 segments / 1 jours / 105 CA$
+
+### Segment 1 : Québec – Toronto
+
+- Prix : 105 CA$
+- Horaire de départ : samedi 10 novembre à 8h15
+- Durée : samedi 10 novembre à 20h39
