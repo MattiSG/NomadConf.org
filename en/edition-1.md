@@ -2,6 +2,36 @@
 
 The first edition took place on Thursday 17 August 2017 and Friday 18 August, between Paris and Bordeaux. Participants were [@matti_sg](https://twitter.com/matti_sg), [@pblayo](https://twitter.com/pblayo), [@krichtof](https://twitter.com/krichtof) and [@cranedemorse](https://twitter.com/cranedemorse).
 
+![Visualize the trip](https://www.rome2rio.com/trips/image/pjypdzlh)
+
+## The invitation
+
+### What we will talk about
+
+#### Materials and best practices
+
+- Connectivity: phone plans and devices.
+- Bags: what to take and what to carry.
+- Accommodation: exchange, rental, hotel, hostel, friends ...
+- Cooking without a kitchen.
+- Projectors and secondary screens.
+- Wifi proxy.
+- MOSH (Mobile Shell).
+
+#### Great Thoughts
+
+- Is the term “nomad” pertinent?
+- Is the term “open” the most relevant?
+
+#### Projects
+
+- FriendlyPlaces: collaboratively referencing spaces that are welcoming and compatible with our practices.
+
+#### Whatever
+
+What you'll want to talk about! Propose a topic, [now](mailto:contact@nomadconf.eu) or during the ride!
+
+
 ## What happened
 
 ### Departure from Paris
