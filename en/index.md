@@ -1,8 +1,8 @@
 _[En français](/fr)_
 
-# NomadConfEU (formerly NomadOpenEU)
+# NomadConf (formerly NomadOpenEU)
 
-An unconference throughout Europe to grow your professional nomadic practices… and to spend a good time between ephemeral coworking in trains and meeting local communities!
+An unconference to grow your professional nomadic practices… and to spend a good time between ephemeral coworking in trains and meeting local communities!
 
 ![Paris - Barcelone near the Sainte-Lucie island](/img/lucie.jpg)
 
@@ -28,6 +28,6 @@ You should not come if you want to receive training to become digital nomad. The
 
 ## Participate
 
-Want to get on the train? Want to welcome the group during a stop (to discover a city, a local community…)? A question? Write an email to `contact{AT}nomadconf.eu`.
+Want to get on the train? Want to welcome the group during a stop (to discover a city, a local community…)? A question? Write an email to `contact{AT}nomadconf.org`.
 
 ![The Milan - Paris way](/img/milano.jpg)

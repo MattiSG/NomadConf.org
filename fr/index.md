@@ -27,6 +27,6 @@ Tu ne devrais pas venir si tu veux recevoir une formation pour devenir digital n
 
 ## Participer
 
-Envie de monter dans le train ? Envie d'accueillir le groupe lors d'une étape (faire découvrir une ville, une communauté locale…) ? Une question ? Écris un mail à `contact{AT}nomadconf.eu`.
+Envie de monter dans le train ? Envie d'accueillir le groupe lors d'une étape (faire découvrir une ville, une communauté locale…) ? Une question ? Écris un mail à `contact{AT}nomadconf.org`.
 
 ![La voie Milan - Paris](/img/milano.jpg)

@@ -1,4 +1,4 @@
-# First edition of NomadConf.eu
+# First edition of NomadConf
 
 The first edition took place on Thursday 17 August 2017 and Friday 18 August, between Paris and Bordeaux. Participants were [@matti_sg](https://twitter.com/matti_sg), [@pblayo](https://twitter.com/pblayo), [@krichtof](https://twitter.com/krichtof) and [@cranedemorse](https://twitter.com/cranedemorse).
 
@@ -29,7 +29,7 @@ The first edition took place on Thursday 17 August 2017 and Friday 18 August, be
 
 #### Whatever
 
-What you'll want to talk about! Propose a topic, [now](mailto:contact@nomadconf.eu) or during the ride!
+What you'll want to talk about! Propose a topic, [now](mailto:contact@nomadconf.org) or during the ride!
 
 
 ## What happened
@@ -116,7 +116,7 @@ Working session in the station to test that environment.
 
 ![High seats in Bordeaux train station](/img/edition-1/IMG_5423.jpg)
 
-Departure at 4:34PM to Paris, we schedule iterations again, then we conclude this first session of NomadConf.eu, short but successful.
+Departure at 4:34PM to Paris, we schedule iterations again, then we conclude this first session of NomadConf, short but successful.
 
 ![TGV Bordeaux - Paris](/img/edition-1/P1070688.jpg)
 

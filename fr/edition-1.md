@@ -1,4 +1,4 @@
-# Première édition de NomadConf.eu
+# Première édition de NomadConf
 
 La première édition a eu lieu les jeudi 17 août 2017 et vendredi 18 août, entre Paris et Bordeaux. Les participant·e·s étaient [@matti_sg](https://twitter.com/matti_sg), [@pblayo](https://twitter.com/pblayo), [@krichtof](https://twitter.com/krichtof) et [@cranedemorse](https://twitter.com/cranedemorse).
 
@@ -29,7 +29,7 @@ La première édition a eu lieu les jeudi 17 août 2017 et vendredi 18 août, en
 
 #### Whatever
 
-Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact@nomadconf.eu) ou pendant le trajet !
+Ce dont on aura envie de parler ! Propose un sujet, [maintenant](mailto:contact@nomadconf.org) ou pendant le trajet !
 
 
 ## Déroulé
@@ -116,7 +116,7 @@ Session de travail dans la gare pour tester cet environnement-là.
 
 ![Tables hautes à la gare de Bordeaux](/img/edition-1/IMG_5423.jpg)
 
-Départ à 16h34 pour Paris, on découpe à nouveau le temps en itérations, puis on conclut cette première session, courte mais réussie, de NomadConf.eu.
+Départ à 16h34 pour Paris, on découpe à nouveau le temps en itérations, puis on conclut cette première session, courte mais réussie, de NomadConf.
 
 ![TGV Bordeaux - Paris](/img/edition-1/P1070688.jpg)
 
