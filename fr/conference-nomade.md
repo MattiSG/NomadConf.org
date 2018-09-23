@@ -7,7 +7,7 @@ Une conférence nomade fait vivre le nomadisme par des déplacements :
 * en bateau : [Nomad Cruise](https://www.nomadcruise.com)
 
 Certaines permettent également de se confronter aux défis que représentent
-le nomadisme numérique (connection internet, électricité, espaces de réunion) :
+le nomadisme numérique (connexion internet, électricité, espaces de réunion) :
 
 * en traversant l'Europe : [nomadconf.org](http://nomadconf.org) (exemple : une réunion entre deux TGV)
 * en traversant l'Atlantique : [Nomad Cruise](https://www.nomadcruise.com) (exemple : 3 jours sans internet)
