@@ -25,104 +25,94 @@ Nous chercherons individuellement et collectivement à identifier les moments o�
 - D'autre part, en échangeant sur ces changements cognitifs avec d'autres personnes qui les vivent également, et qui en auront une expérience et une interprétation variées.
 
 
+## Proposition 1 : _la Transcontinentale_
 
-## Le programme _[hypothèse trajet transcontinental]_
+Du samedi 10 au dimanche 18 novembre 2018, de Toronto à Vancouver : 2 segments / 8 jours / 2200 CA$.
+_Ce tarif est trop élevé ? Vous pouvez demander une subvention, ou voyager en siège inclinable plutôt qu'en couchette, pour un total de 900 CA$._
 
-- On se rencontre dans la ville de départ. Une à deux heures de rencontre facilitée pour se découvrir et présenter les sujets à traiter.
-- On monte dans le train et on commence à s'approprier l'espace. Support par les pairs pour apprendre à travailler dans ce contexte.
-- On travaille en binômes pendant quelques heures en alternant les sujets et les binômes.
-- Partage et rétrospective de ce premier temps à l'occasion du déjeuner.
-- Temps de travail individuel.
-- Temps de rencontre : dans la voiture restaurant, chaque binôme dîne avec d'autres voyageurs qui ne font pas partie du groupe.
-- Partage et rétrospective de ce second temps en admirant les paysages puis le ciel dans la voiture d'observation.
-- Nuit en couchettes (groupement par ronfleurs / non-ronfleurs et heures de coucher / lever).
-- Temps libre de réveil.
-- Temps de travail en groupe.
-- Temps de rencontre : dans la voiture restaurant, on déjeune en binôme avec d'autres voyageurs qui ne font pas partie du groupe.
-- Temps de pause : descente du train et exploration d'une ville, marche dans la nature, rencontre d'un groupe local.
-- On répète les deux jours décrits ci-dessus pour la deuxième moitié du voyage.
+### Départ : Toronto
 
-
-## Trajet potentiel 1 : _la Transcontinentale_
-
-Du 10 au 14 novembre 2018, entre Toronto et Vancouver : 2 Segments / 5 jours
-Estimation trajet 1 : 523,06 CA$ en siège inclinable / 1439,56 CA$ en couchette
+Rendez-vous dans un restaurant proche de la gare à 19h30. On se rencontre autour d'un dîner pour se découvrir et définir les attentes de chacun·e·s.
 
 ### Segment 1 : Toronto – Winnipeg
 
-- Prix : 239,56 CA$ en économie / 673,48 CA$ en couchette
+- Prix : 700 CA$ en couchette (aubaine : 420 CA$, économie : 250 CA$)
 - Horaire de départ : samedi 10 novembre à 22h00
-- Horaire d’arrivée : lundi 12 novembre à 8h
+- Horaire d’arrivée : lundi 12 novembre à 8h00
 - Durée : 1j 11h
+
+Programme :
+
+- Nuit en couchettes.
+- Au réveil, petit-déjeuner dans le wagon restaurant, on présente les sujets que chaque personne a apporté en admirant les paysages.
+- On travaille en binômes pendant quelques heures en alternant les sujets et les binômes. Support par les pairs pour apprendre à travailler dans ce contexte.
+- Partage et rétrospective de ce premier temps à l'occasion du déjeuner.
+- Temps de travail individuel (ou en binôme si certains binômes le souhaitent).
+- Temps de rencontre : dans la voiture restaurant, chaque binôme dîne avec d'autres voyageurs qui ne font pas partie du groupe.
+- Partage et rétrospective de ce second temps en admirant les paysages puis le ciel dans la voiture d'observation.
+- Nuit en couchettes.
+
+Tout au long du trajet, plusieurs arrêts intermédiaires permettent de s'aérer.
 
 ### Étape 1 : Winnipeg
 
-- Groupe recontré :
+Trois jours à Winnipeg, en plein milieu du continent. Les températures seront comprises entre 0°C et -10°C, avec un début de couverture neigeuse.
+
+Logement dans un loft avec espace partagé pour cuisiner et travailler. Visite du [musée des droits de la personne](https://humanrights.ca). _Travail depuis l'espace [NorthForge](https://www.northforge.ca) et rencontre d'entrepreneurs locaux (en cours de confirmation)._ Deux demi-journées de randonnée pour s'aérer, s'activer, et explorer une autre forme de mobilité douce.
+
+Avec l'expérience du premier segment, le groupe définit collectivement les expériences à mener pour le deuxième segment.
+
 
 ### Segment 2 : Winnipeg – Vancouver
 
-- Prix : 283,50$ / 766,50 CA$ en couchette
-- Horaire de départ :  lundi 12 novembre à 10h
-- Horaire d’arrivée : jeudi 14 novembre à 18h00
+- Prix : 900 CA$ (aubaine : 800 CA$, économie : 300 CA$)
+- Horaire de départ : jeudi 15 novembre à 10h00
+- Horaire d’arrivée : samedi 17 novembre à 18h00
 - Durée : 2j 10h
 
-### Étape 2 : Vancouver
+Programme : les participant·e·s appliquent le programme qui a été défini pendant la première étape.
 
-- Groupe rencontré :
+Tout au long du trajet, plusieurs arrêts intermédiaires permettent de s'aérer.
+
+### Arrivée : Vancouver
+
+Clôture : marche de découverte de la ville en soirée, rétrospective sur la semaine.
+
+Possibilité de prolonger le temps à Vancouver à la liberté du groupe.
 
 
-## Trajet potentiel 2 : _la Dorsale_
+## Proposition 2 : _le Corridor_
 
-Du 6 au 11 novembre, entre Québec et Toronto : 3 segments / 4 jours
-Estimation trajet 2 : 169 CA$
-
-### Segment 1 : Québec – Montréal
-
-- Prix : 29$
-- Horaire de départ : vendredi 9 novembre à 17h45
-- Horaire d’arrivée : vendredi 9 novembre à 21h00
-- Durée : 3h15
+Le weekend du 10 et 11 novembre, aller-retour entre Montréal et Toronto : 2 segments / 2 jours / 250 CA$.
 
 ### Étape 1 : Montréal
 
-- Groupe recontré :
+Samedi 10 novembre à 8h00, rencontre des participants à la gare. Petit déjeuner pour se rencontrer.
 
-### Segment 2 : Montréal – Ottawa
+### Segment 1 : Montréal – Toronto
 
-- Prix : 44$
-- Horaire de départ : samedi 10 novembre à 12h04
-- Horaire d’arrivée : samedi 10 novembre à 14h15
-- Durée : 2h11
+- Horaire de départ : samedi 10 novembre à 09:00.
+- _Possibilité de rejoindre à Ottawa_ : arrêt en gare de 11:04 à 11:40.
+- Horaire d’arrivée : samedi 10 novembre à 16:03.
+- Durée : 7h 3m
 
-### Étape 2 : Ottawa du 7 au 9
-
-- Groupe rencontré : Service Numérique Canadien.
-
-### Segment 3 : Ottawa – Toronto
-
-- Prix : 48$
-- Horaire de départ : dimanche 11 novembre à 09h05
-- Durée : dimanche 11 novembre à 13h47
-- Thèmes abordés : 04h42
-
-### Étape 3 : Toronto
-
-- Groupe recontré :
-
-### Segment 4 (retour) : Toronto – Montréal
-
-- Prix : 48$
-- Horaire de départ : lundi 12 novembre à 9h20
-- Horaire d’arrivée : lundi 12 novembre à 14h20
-- Durée: 5h
+Discussions et retours d’expérience autour du thème « questionner les pratiques agiles pour identifier les occasions où nous présageons à tort que le fait d'aller vite aurait une vertu intrinsèque ».
 
 
-## Trajet potentiel 3 : _L’express_
+### Étape 2 : Toronto
 
-Le 10 novembre, entre Québec et Toronto : 1 segments / 1 jours / 105 CA$
+- Découverte de la ville à pied fin de journée et soirée.
+- Rétrospective de nos échanges de la journée.
 
-### Segment 1 : Québec – Toronto
+Nuit à Toronto dans un logement partagé.
 
-- Prix : 105 CA$
-- Horaire de départ : samedi 10 novembre à 8h15
-- Durée : samedi 10 novembre à 20h39
+### Segment 2 : Toronto – Montréal
+
+- Horaire de départ : dimanche 11 novembre à 10:45
+- Correspondance à Ottawa : de 15:02 à 16:10
+- Horaire d’arrivée : dimanche 11 novembre à 18:05
+- Thèmes abordés :
+
+### Étape 3 : Montréal
+
+Clôture : bilan des deux jours et hypothèses pour les prochains pas.
