@@ -38,7 +38,6 @@ Rendez-vous dans un restaurant proche de la gare à 19h30. On se rencontre autou
 
 ### Segment 1 : Toronto – Winnipeg
 
-- Prix : 700 CA$ en couchette (aubaine : 420 CA$, économie : 250 CA$)
 - Horaire de départ : samedi 10 novembre à 22h00
 - Horaire d’arrivée : lundi 12 novembre à 8h00
 - Durée : 1j 11h
@@ -67,7 +66,6 @@ Avec l'expérience du premier segment, le groupe définit collectivement les exp
 
 ### Segment 2 : Winnipeg – Vancouver
 
-- Prix : 900 CA$ (aubaine : 800 CA$, économie : 300 CA$)
 - Horaire de départ : jeudi 15 novembre à 10h00
 - Horaire d’arrivée : samedi 17 novembre à 18h00
 - Durée : 2j 10h
