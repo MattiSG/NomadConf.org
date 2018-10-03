@@ -4,6 +4,7 @@ Cette édition aura lieu au Canada dans la première quinzaine de novembre 2018 
 
 _Toutes les informations indiquées ici sont en cours de confirmation. Nous tentons notamment de trouver des partenaires et des sponsors pour réduire le prix. Vos retours sur le tarif acceptable pour vous ou sur des opportunités de sponsoring sont les bienvenus !_
 
+![Gare d'Ottawa](/img/canada-2018/station.jpg)
 
 ## Quand ralentir nous permet d'aller plus vite, plus loin… ou simplement ailleurs ?
 
@@ -31,6 +32,8 @@ Du samedi 10 au dimanche 18 novembre 2018, de Toronto à Vancouver : 2 segments
 _Ce tarif est trop élevé ? Vous pouvez demander une subvention, ou voyager en siège inclinable plutôt qu'en couchette, pour un total de 900 CA$._
 
 #### [Pré-inscriptions](https://nomadconf.slack.com/messages/CCQDYNBDZ/) jusqu'au 6 octobre ! Ne tardez pas !
+
+![Train in the rockies](/img/canada-2018/transcanadian.jpg)
 
 ### Départ : Toronto
 
@@ -88,6 +91,8 @@ Possibilité de prolonger le temps à Vancouver à la liberté du groupe.
 Le weekend du 10 et 11 novembre, aller-retour entre Montréal et Toronto : 2 segments / 2 jours / 250 CA$.
 
 #### [Pré-inscriptions](https://nomadconf.slack.com/messages/CCQDYNBDZ/) jusqu'au 6 octobre ! Ne tardez pas !
+
+![Quai d'Ottawa](/img/canada-2018/corridor.jpg)
 
 ### Étape 1 : Montréal
 

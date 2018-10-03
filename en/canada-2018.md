@@ -4,6 +4,7 @@ This edition will take place in Canada in the first half of November 2018 and is
 
 _All the information given here is being confirmed. In particular, we are trying to find partners and sponsors to reduce the price. Your feedback on the acceptable rate for you or on sponsorship opportunities is welcome!_
 
+![Ottawa train station](/img/canada-2018/station.jpg)
 
 ## When slowing down allows us to go faster, further… or simply elsewhere?
 
@@ -31,6 +32,8 @@ From Saturday, November 10 to Sunday, November 18, 2018, from Toronto to Vancouv
 _Is this rate too high? You can apply for a grant, or travel in a reclining seat instead of a berth, for a total of $900 CA$._
 
 #### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
+
+![Train in the rockies](/img/canada-2018/transcanadian.jpg)
 
 ### Departure: Toronto
 
@@ -90,6 +93,8 @@ Possibility to extend the time in Vancouver to the freedom of the group.
 On the weekend of November 10 and 11, round trip between Montreal and Toronto: 2 segments / 2 days / $250 CA$.
 
 #### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
+
+![Ottawa station tracks](/img/canada-2018/corridor.jpg)
 
 ### Step 1: Montreal
 
