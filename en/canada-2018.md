@@ -30,7 +30,7 @@ We will individually and collectively seek to identify the moments when we mix e
 From Saturday, November 10 to Sunday, November 18, 2018, from Toronto to Vancouver: 2 segments / 8 days / 2200 CA$.
 _Is this rate too high? You can apply for a grant, or travel in a reclining seat instead of a berth, for a total of $900 CA$._
 
-#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 5th! Don't delay!
+#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
 
 ### Departure: Toronto
 
@@ -82,14 +82,14 @@ Closing: discovery walk of the city in the evening, retrospective of the week.
 
 Possibility to extend the time in Vancouver to the freedom of the group.
 
-#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 5th! Don't delay!
+#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
 
 
 ## Proposal 2: _the Corridor_
 
 On the weekend of November 10 and 11, round trip between Montreal and Toronto: 2 segments / 2 days / $250 CA$.
 
-#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 5th! Don't delay!
+#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
 
 ### Step 1: Montreal
 
@@ -122,4 +122,4 @@ Overnight in Toronto in shared accommodation.
 
 Closing: retrospective of the two days and ideas for next steps.
 
-#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 5th! Don't delay!
+#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
