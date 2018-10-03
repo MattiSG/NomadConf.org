@@ -29,7 +29,7 @@ Nous chercherons individuellement et collectivement à identifier les moments o�
 Du samedi 10 au dimanche 18 novembre 2018, de Toronto à Vancouver : 2 segments / 8 jours / 2200 CA$.
 _Ce tarif est trop élevé ? Vous pouvez demander une subvention, ou voyager en siège inclinable plutôt qu'en couchette, pour un total de 900 CA$._
 
-#### [Pré-inscriptions](https://nomadconf.slack.com/messages/CCQDYNBDZ/) jusqu'au 6 octobre ! Ne tardez pas !
+#### [Pré-inscriptions](https://mattischneider.typeform.com/to/hoM1wk) jusqu'au 6 octobre ! Ne tardez pas !
 
 ![Train in the rockies](/img/canada-2018/transcanadian.jpg)
 
@@ -81,14 +81,14 @@ Clôture : marche de découverte de la ville en soirée, rétrospective sur la 
 
 Possibilité de prolonger le temps à Vancouver à la liberté du groupe.
 
-#### [Pré-inscriptions](https://nomadconf.slack.com/messages/CCQDYNBDZ/) jusqu'au 6 octobre ! Ne tardez pas !
+#### [Pré-inscriptions](https://mattischneider.typeform.com/to/hoM1wk) jusqu'au 6 octobre ! Ne tardez pas !
 
 
 ## Proposition 2 : _le Corridor_
 
 Le weekend du 10 et 11 novembre, aller-retour entre Montréal et Toronto : 2 segments / 2 jours / 250 CA$.
 
-#### [Pré-inscriptions](https://nomadconf.slack.com/messages/CCQDYNBDZ/) jusqu'au 6 octobre ! Ne tardez pas !
+#### [Pré-inscriptions](https://mattischneider.typeform.com/to/hoM1wk) jusqu'au 6 octobre ! Ne tardez pas !
 
 ![Quai d'Ottawa](/img/canada-2018/corridor.jpg)
 
@@ -124,4 +124,4 @@ Nuit à Toronto dans un logement partagé.
 
 Clôture : bilan des deux jours et hypothèses pour les prochains pas.
 
-#### [Pré-inscriptions](https://nomadconf.slack.com/messages/CCQDYNBDZ/) jusqu'au 6 octobre ! Ne tardez pas !
+#### [Pré-inscriptions](https://mattischneider.typeform.com/to/hoM1wk) jusqu'au 6 octobre ! Ne tardez pas !
