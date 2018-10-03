@@ -1,3 +1,5 @@
+_[En français](/fr/canada-2018)_
+
 # NomadConf Canada 2018
 
 NomadConf are unconferences to grow your professional nomadic practices… and to spend a good time between ephemeral coworking in trains and meeting local communities! This edition will take place in Canada in the second week of November 2018 and is organized by Clémentine Hahn and Matti Schneider.

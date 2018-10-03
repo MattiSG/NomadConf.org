@@ -1,3 +1,5 @@
+_[In English](/en/canada-2018)_
+
 # NomadConf Canada 2018
 
 Les NomadConfs sont des non-conférences [nomades](conference-nomade) pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales ! Cette édition aura lieu au Canada dans la première quinzaine de novembre 2018 et est organisée par Clémentine Hahn et Matti Schneider.
