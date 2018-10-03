@@ -1,8 +1,6 @@
 # NomadConf Canada 2018
 
-This edition will take place in Canada in the first half of November 2018 and is organized by Clémentine Hahn and Matti Schneider.
-
-_All the information given here is being confirmed. In particular, we are trying to find partners and sponsors to reduce the price. Your feedback on the acceptable rate for you or on sponsorship opportunities is welcome!_
+NomadConf are unconferences to grow your professional nomadic practices… and to spend a good time between ephemeral coworking in trains and meeting local communities! This edition will take place in Canada in the second week of November 2018 and is organized by Clémentine Hahn and Matti Schneider.
 
 ![Ottawa train station](/img/canada-2018/station.jpg)
 

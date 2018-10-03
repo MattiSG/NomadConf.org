@@ -1,8 +1,6 @@
 # NomadConf Canada 2018
 
-Cette édition aura lieu au Canada dans la première quinzaine de novembre 2018 et est organisée par Clémentine Hahn et Matti Schneider.
-
-_Toutes les informations indiquées ici sont en cours de confirmation. Nous tentons notamment de trouver des partenaires et des sponsors pour réduire le prix. Vos retours sur le tarif acceptable pour vous ou sur des opportunités de sponsoring sont les bienvenus !_
+Les NomadConfs sont des non-conférences [nomades](conference-nomade) pour grandir dans ses pratiques professionnelles en situation de nomadisme… et pour passer un bon moment entre coworking éphémère en train et rencontre de communautés locales ! Cette édition aura lieu au Canada dans la première quinzaine de novembre 2018 et est organisée par Clémentine Hahn et Matti Schneider.
 
 ![Gare d'Ottawa](/img/canada-2018/station.jpg)
 
