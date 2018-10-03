@@ -1,9 +1,8 @@
 # NomadConf Canada 2018
 
-This edition will take place in Canada in the first half of November 2018 and is organized by Clémentine Hahn and Matti Schneider.
+NomadConf are unconferences to grow your professional nomadic practices… and to spend a good time between ephemeral coworking in trains and meeting local communities! This edition will take place in Canada in the second week of November 2018 and is organized by Clémentine Hahn and Matti Schneider.
 
-_All the information given here is being confirmed. In particular, we are trying to find partners and sponsors to reduce the price. Your feedback on the acceptable rate for you or on sponsorship opportunities is welcome!_
-
+![Ottawa train station](/img/canada-2018/station.jpg)
 
 ## When slowing down allows us to go faster, further… or simply elsewhere?
 
@@ -21,106 +20,109 @@ Without going back to waterfall, we aim at questioning agile and lean practices 
 
 We will individually and collectively seek to identify the moments when we mix ends and means. Our aim will be to reclaim our ability to use slower time. To do this, we will use leverage two opportunities brought by soft mobility:
 
-- First, working on usual subjects in an unusual situation by creating a temporary teleworking space on the train. This shift in cognitive constraints (fewer interruptions, a changing landscape, less connectivity, shared space…) changes our relationship to the problems we are trying to solve.
+- First, working on usual subjects in an unusual situation by creating a temporary remote working space on the train. This shift in cognitive constraints (fewer interruptions, a changing landscape, less connectivity, shared space…) changes our relationship to the problems we are trying to solve.
 - Second, by sharing these cognitive changes with others who are also experiencing them, creating a variety of experiences and interpretations.
 
 
-## The program _[transcontinental path hypothesis]_
+## Proposal 1: _The Transcontinental_
 
-- We meet in the starting city. One to two hours of facilitated meeting to discover each other and present the topics to be discussed.
-- We get on the train and start taking over the space. Peer support to learn how to work in this context.
-- We work in pairs for a few hours, rotating topics and pairs.
-- Sharing and retrospective of this first part at lunch.
-- Individual working time.
-- Meeting time: in the dining car, each pair dines with other travellers who are not part of the group.
-- Sharing and retrospective of this second time by admiring the landscapes and then the sky in the observation car.
-- Overnight in bunks (grouped by snoring/non-snoring and expected sleep and wake times).
-- Free waking up time.
-- Group work time.
-- Meeting time: in the restaurant car, we have lunch in pairs with other travellers who are not part of the group.
-- Break time: getting off the train and exploring a city, walking in the countryside, meeting a local group.
-- The two days described above are repeated for the second half of the trip.
+From Saturday, November 10 to Sunday, November 18, 2018, from Toronto to Vancouver: 2 segments / 8 days / 2200 CA$.
+_Is this rate too high? You can apply for a grant, or travel in a reclining seat instead of a berth, for a total of $900 CA$._
 
+#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
 
-## Potential route 1: _the Transcontinental_
+![Train in the rockies](/img/canada-2018/transcanadian.jpg)
 
-November 10-14, 2018, between Toronto and Vancouver: 2 Segments / 5 days
-Estimated trip 1: CA$523.06 in reclining seat / CA$1,439.56 in berth
+### Departure: Toronto
+
+Meet at a restaurant near the station at 7:30 pm. We meet around a dinner to discover each other and define everyone's expectations.
 
 ### Segment 1: Toronto - Winnipeg
 
-- Price: CA$239.56 in economy / CA$673.48 in berth
-- Departure schedule: Saturday, November 10 at 10:00 pm
-- Arrival time: Monday, November 12 at 8am
+- Departure: Saturday, November 10 at 10:00 pm
+- Arrival: Monday, November 12 at 8:00 am
 - Duration: 1 day 11 hours
+
+Schedule:
+
+- Night in sleepers.
+- Upon waking up, breakfast in the restaurant car, we present the subjects that each person brought while admiring the landscapes.
+- We work in pairs for a few hours, alternating subjects and pairs. Peer support to learn how to work in this context.
+- Sharing and retrospective of this first time at lunch.
+- Individual working time (or in pairs if some pairs wish).
+- Meeting time: in the dining car, each pair dines with other travellers who are not part of the group.
+- Sharing and retrospective of this second time by admiring the landscapes and then the sky in the observation car.
+- Night in sleepers.
+
+Throughout the journey, several intermediate stops allow to stretch your legs.
+
+[Learn more about the train](https://www.seat61.com/Canada.htm#What_is_the_train_like).
 
 ### Step 1: Winnipeg
 
-- Local group met:
+Three days in Winnipeg, in the middle of the continent. Temperatures will be between 0°C and -10°C, with the beginning of snow cover.
+
+Accommodation in a loft with shared space for cooking and working. Visit to the[Museum of Human Rights] (https://humanrights.ca). Working from space[NorthForge] (https://www.northforge.ca) and meeting local entrepreneurs (under confirmation). Two half-days of hiking to get air, get active, and explore another form of soft mobility.
+
+With the experience of the first segment, the group collectively defines the experiences to be conducted for the second segment.
+
 
 ### Segment 2: Winnipeg - Vancouver
 
-- Price: $283.50 / CA$766.50 per berth
-- Departure time: Monday, November 12 at 10am
-- Arrival time: Thursday, November 14 at 6:00 pm
+- Departure: Thursday, November 15 at 10:00 am
+- Arrival: Saturday, November 17 at 6:00 pm
 - Duration: 2 days 10 hours
 
-### Step 2: Vancouver
+Schedule: Participants apply the schedule that was defined in the first step.
 
-- Local group met:
+Throughout the journey, several intermediate stops allow to stretch your legs.
 
-## Possible trip 2: _the Backbone_
+### Arrival: Vancouver
 
-November 6 to 11, between Quebec City and Toronto: 3 segments / 4 days
-Estimate for trip 2: CA$169
+Closing: discovery walk of the city in the evening, retrospective of the week.
 
-### Segment 1: Quebec - Montreal
+Possibility to extend the time in Vancouver to the freedom of the group.
 
-- Price: CA$29
-- Departure time: Friday, November 9 at 5:45 pm
-- Arrival time: Friday, November 9 at 9:00 pm
-- Duration: 3h15
+#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
+
+
+## Proposal 2: _the Corridor_
+
+On the weekend of November 10 and 11, round trip between Montreal and Toronto: 2 segments / 2 days / $250 CA$.
+
+#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
+
+![Ottawa station tracks](/img/canada-2018/corridor.jpg)
 
 ### Step 1: Montreal
 
-- Local group met:
+Saturday, November 10 at 8:00 am, meeting of participants at the station. We meet each other over breakfast.
 
-### Segment 2: Montreal - Ottawa
+### Segment 1: Montreal - Toronto
 
-- Price: CA$44
-- Departure schedule: Saturday, November 10 at 12:04 pm
-- Arrival time: Saturday, November 10 at 2:15 pm
-- Duration: 2h11
+- Departure: Saturday, November 10 at 09:00.
+- Join from Ottawa: station stop from 11:04 to 11:40.
+- Arrival: Saturday, November 10 at 16:03.
+- Duration: 7h 3m
 
-### Step 2: Ottawa from 7 to 9
+Discussions and feedback on the theme "questioning agile practices to identify the occasions when we wrongly believe that going fast holds some intrinsic virtue".
 
-- Local group met: Canadian Digital Service.
+### Step 2: Toronto
 
-### Segment 3: Ottawa - Toronto
+- Discover the city on foot at the end of the day and in the evening.
+- Retrospective of our exchanges of the day.
 
-- Price: CA$48
-- Departure schedule: Sunday, November 11 at 09:05 am
-- Duration: Sunday, November 11 at 1:47 pm
-- Topics covered: 04h42
+Overnight in Toronto in shared accommodation.
 
-### Step 3: Toronto
+### Segment 2: Toronto - Montreal
 
-- Local group met:
+- Departure: Sunday, November 11 at 10:45am
+- Stop in Ottawa: from 3:02pm to 4:10pm
+- Arrival: Sunday, November 11 at 6:05pm
+- Topics covered :
 
-### Segment 4 (back): Toronto - Montreal
+### Step 3: Montreal
 
-- Price: CA$48
-- Departure time: Monday, November 12 at 9:20 am
-- Arrival time: Monday, November 12 at 2:20 pm
-- Duration: 5 hours
+Closing: retrospective of the two days and ideas for next steps.
 
-
-## Potential route 3: _Express_
-
-November 10, between Quebec City and Toronto: 1 segment / 1 day / CA$105
-
-### Segment 1: Quebec - Toronto
-
-- Price: CA$105
-- Departure schedule: Saturday, November 10 at 8:15 am
-- Duration: Saturday, November 10 at 8:39 pm
+#### [Pre-registration](https://nomadconf.slack.com/messages/CCQDYNBDZ/) until October 6th! Don't delay!
